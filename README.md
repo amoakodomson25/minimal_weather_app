@@ -25,7 +25,7 @@ To run this app locally, follow these steps:
 4. Configure API Key: Replace the placeholder API key in the **weather_page.dart** file:
    
    **(Line 16) final _weatherService = WeatherService('YOUR_API_KEY_HERE');**
-6. Run the app: You can run the app using the following command: **flutter run**
+6. Run the app.
 
 
 ## Usage
