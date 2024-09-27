@@ -32,8 +32,11 @@ To run this app locally, follow these steps:
 Upon launching the app, it will request permission to access your location. Once permission is granted, it will fetch and display the current weather for your location, including the city name and temperature.
 
 ## Screenshots
-- App Icon :
+- App Icon 
  <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/App%20Icon.jpg" width="180px" height="219px"/>
+
+ - Splash screen (Dark Mode)
+ <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/Splash%20screen.jpg"/>
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
