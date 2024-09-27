@@ -22,7 +22,7 @@ To run this app locally, follow these steps:
 1. Clone the repository
 2. Install dependencies: Ensure you have Flutter installed on your machine. Then run: flutter pub get
 3. Obtain API Key: Sign up for an API key from [OpenWeatherMap](https://openweathermap.org/).
-4. Configure API Key: Replace the placeholder API key in the weather_page.dart file:
+4. Configure API Key: Replace the placeholder API key in the **weather_page.dart** file:
    
    **(Line 16) final _weatherService = WeatherService('YOUR_API_KEY_HERE');**
 6. Run the app: You can run the app using the following command: flutter run
