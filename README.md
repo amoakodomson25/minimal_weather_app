@@ -14,14 +14,14 @@ Responsive design with support for dark mode.
 - OpenWeatherMap API: A service that provides weather data for any location worldwide.
 - Geolocator: A Flutter plugin for getting the current location of the device.
 - Geocoding: A Flutter plugin for converting coordinates into human-readable addresses.
-- Lottie: A library for rendering animations in the app, providing smooth and lightweight animations. [Lottie](https://lottiefiles.com/)
+-  [Lottie](https://lottiefiles.com/): A library for rendering animations in the app, providing smooth and lightweight animations.
 
 
 ## Installation
 To run this app locally, follow these steps:
 1. Clone the repository
 2. Install dependencies: Ensure you have Flutter installed on your machine. Then run: flutter pub get
-3. Obtain API Key: Sign up for an API key from OpenWeatherMap(https://openweathermap.org/).
+3. Obtain API Key: Sign up for an API key from [OpenWeatherMap](https://openweathermap.org/).
 4. Configure API Key:
    Replace the placeholder API key in the weather_page.dart file:
    (Line 16) final _weatherService = WeatherService('YOUR_API_KEY_HERE');
