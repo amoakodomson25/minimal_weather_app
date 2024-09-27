@@ -44,7 +44,7 @@ Upon launching the app, it will request permission to access your location. Once
  - Loading screen (app is fetching information from api)
  <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/Loading%20App.jpg" width="152.25px" height="320px"/>
 
- - Running App :
+ - Running App
  <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/Running%20App.jpg" width="152.25px" height="320px"/>
 
 ## Contributing
