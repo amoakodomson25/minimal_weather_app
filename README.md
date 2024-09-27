@@ -33,12 +33,15 @@ Upon launching the app, it will request permission to access your location. Once
 
 ## Screenshots
 
+
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any inquiries or feedback, please feel free to reach out:
-Email: amodom132@gmail.com
+## Acknowledgments
+- [OpenWeatherMap API](https://openweathermap.org/) for providing weather data.
+- [Flutter](https://flutter.dev/) for building the app.
+- [Lottie](https://lottiefiles.com/) for adding animations.
+
