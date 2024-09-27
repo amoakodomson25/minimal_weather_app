@@ -38,6 +38,12 @@ Upon launching the app, it will request permission to access your location. Once
  - Splash screen (Dark Mode)
  <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/Splash%20screen.jpg" width="152.25px" height="320px"/>
 
+ - Permission (user will have to allow the app to access the user's device's location after installing.)
+ <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/Permission.jpg" width="152.25px" height="320px"/>
+
+ - Loading screen 
+ <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/Loading%20App.jpg" width="152.25px" height="320px"/>
+
  - Permission : user will have to allow the app to access the user's device's location.
  <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/Permission.jpg" width="152.25px" height="320px"/>
 
