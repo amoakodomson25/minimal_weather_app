@@ -14,7 +14,7 @@ Responsive design with support for dark mode.
 - OpenWeatherMap API: A service that provides weather data for any location worldwide.
 - Geolocator: A Flutter plugin for getting the current location of the device.
 - Geocoding: A Flutter plugin for converting coordinates into human-readable addresses.
-- Lottie: A library for rendering animations in the app, providing smooth and lightweight animations. https://lottiefiles.com/
+- Lottie: A library for rendering animations in the app, providing smooth and lightweight animations. `[Lottie][(https://lottiefiles.com/)]`
 
 
 ## Installation
