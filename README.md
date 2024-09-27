@@ -24,7 +24,7 @@ To run this app locally, follow these steps:
 3. Obtain API Key: Sign up for an API key from [OpenWeatherMap](https://openweathermap.org/).
 4. Configure API Key:
    Replace the placeholder API key in the weather_page.dart file:
-   (Line 16) final _weatherService = WeatherService('YOUR_API_KEY_HERE');
+   **(Line 16) final _weatherService = WeatherService('YOUR_API_KEY_HERE');**
 6. Run the app: You can run the app using the following command: flutter run
 
 
@@ -34,7 +34,7 @@ Upon launching the app, it will request permission to access your location. Once
 ## Screenshots
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
