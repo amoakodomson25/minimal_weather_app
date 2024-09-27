@@ -33,6 +33,7 @@ Upon launching the app, it will request permission to access your location. Once
 
 ## Screenshots
 App Icon ![image of app icon](https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/App%20Icon.jpg)
+<img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/App%20Icon.jpg" width="200px" height="300px"/>
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
