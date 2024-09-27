@@ -36,7 +36,7 @@ Upon launching the app, it will request permission to access your location. Once
  <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/App%20Icon.jpg" width="180px" height="219px"/>
 
  - Splash screen (Dark Mode)
- <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/Splash%20screen.jpg"/>
+ <img src="https://github.com/amoakodomson25/ImageLibrary/blob/main/MinimalWeatherAppScreenshots/Splash%20screen.jpg" width="152.25px" height="320px"/>
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
